@@ -1,3 +1,4 @@
 # ML Pipeline
 
-[Project Thesis](Project Thesis.pdf)
+[Project Thesis](./Project_Thesis.pdf)
+
