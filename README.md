@@ -158,10 +158,10 @@ For questions, suggestions, or collaboration opportunities, please reach out to 
 This project was developed by a dedicated team of researchers and developers:
 
 - **[Aman Raut]** 
-- **[Aniket Kaloo]
-- **[Atharva Nerkar]
-- **[Valhari Meshram]
-- **[Viranchi Dakhare]
+- **[Aniket Kaloo]**
+- **[Atharva Nerkar]**
+- **[Valhari Meshram]**
+- **[Viranchi Dakhare]**
 
 ---
 
